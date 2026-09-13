@@ -1,0 +1,186 @@
+###################################################
+# Byte:               108948
+# Size:               109013 Bytes
+# Ftype:              KEY
+# POC:                0
+###################################################
+FrmNum:               0
+DecFrmNum:            0
+Size:                 720 432
+DSize:                716 428
+DepthYUV:             10 10 10
+PicType:              0 0 0
+RandomAccess:         1
+CabacOutputBins:      743680
+ColorPrimaries:       0
+XferCharacteristics:  0
+MatrixCoefficients:   0
+DnrRefPic:            0
+DnrSumQuantCur:       0
+DnrSumQuantRef:       0
+DnrNumMbCur:          0
+DnrNumMbRef:          0
+DnrMbCntIntra:        0
+DnrMbCntInter:        0
+DnrIntraQmatSumLo:    0
+DnrIntraQmatSumHi:    0
+DnrInterQmatSumLo:    0
+DnrInterQmatSumHi:    0
+DnrAdjQp:             0
+LCRC:                 0x83D4B94A 0x67AD6F0C 0xB2711B75
+CCRC:                 0x1BE8CFDF 0x3147D02E 0x99282EE1
+DLCRC:                0x13519FA9 0xCFF06DBE 0xA57238D1
+DCCRC:                0x509200AB 0x29F65798 0xA36BADA8
+YCKSUM:               0x04A61BF4 0x0263E9D9 0x026309C7
+UCKSUM:               0x01394ADD 0x00912E98 0x00912AA9
+VCKSUM:               0x012C5A60 0x008DDD9D 0x008DD57B
+DYCKSUM:              0x0493C2E2 0x025AC4EB 0x0259BC77
+DUCKSUM:              0x0134B2C3 0x008F0791 0x008F05B8
+DVCKSUM:              0x01279313 0x008BE84A 0x008BE991
+YMD5:                 E88BDDC01817E20F1B03866F606BE81F
+UMD5:                 64BE44838DA21BC0FF15072CC848FCC4
+VMD5:                 DEA0AA51DEE59E334BE44F21215A009D
+PixSumY:              160500089
+MaxY:                 1023
+MinY:                 0
+HistY[000 - 007]:     24374   1109    1303    1558    1025    1246    1482    1303    
+HistY[008 - 015]:     1151    1262    1204    1205    1668    1834    1043    1208    
+HistY[016 - 023]:     1069    1242    1470    1414    1504    1635    1863    1755    
+HistY[024 - 031]:     1660    1838    2427    2144    1482    1429    1706    1704    
+HistY[032 - 039]:     1435    1754    1686    2068    1637    1563    1810    1918    
+HistY[040 - 047]:     1538    1353    1470    1355    1438    1577    1984    1914    
+HistY[048 - 055]:     1865    1965    2015    2546    3737    4361    6937    5944    
+HistY[056 - 063]:     3563    4841    3639    2782    3092    2959    3826    4597    
+HistY[064 - 071]:     3343    2385    2637    2315    2368    2203    2371    2453    
+HistY[072 - 079]:     2384    2515    3406    4127    3714    3002    2400    2656    
+HistY[080 - 087]:     2947    2397    2484    2560    2351    1940    1788    1631    
+HistY[088 - 095]:     1732    2437    2078    1633    1903    1569    1367    1548    
+HistY[096 - 103]:     1385    1423    1440    1450    1804    1227    1161    1015    
+HistY[104 - 111]:     1078    1035    941     1079    1157    1257    1019    1095    
+HistY[112 - 119]:     1108    1101    1276    1132    1245    1262    1336    1271    
+HistY[120 - 127]:     1294    1274    1312    1479    1734    1663    2027    34238   
+
+###################################################
+# Byte:               161661
+# Size:               52641 Bytes
+# Ftype:              INTER
+# POC:                1
+###################################################
+FrmNum:               1
+DecFrmNum:            1
+Size:                 648 304
+DSize:                646 300
+DepthYUV:             10 10 10
+PicType:              0 0 0
+RandomAccess:         0
+CabacOutputBins:      407040
+ColorPrimaries:       0
+XferCharacteristics:  0
+MatrixCoefficients:   0
+DnrRefPic:            0
+DnrSumQuantCur:       0
+DnrSumQuantRef:       0
+DnrNumMbCur:          0
+DnrNumMbRef:          0
+DnrMbCntIntra:        0
+DnrMbCntInter:        0
+DnrIntraQmatSumLo:    0
+DnrIntraQmatSumHi:    0
+DnrInterQmatSumLo:    0
+DnrInterQmatSumHi:    0
+DnrAdjQp:             0
+LCRC:                 0xAE8120D0 0x16618BDB 0x904A2D87
+CCRC:                 0xC1A5B66C 0x299D2E83 0x065BAAD9
+DLCRC:                0x20EBD349 0x7A0F8E43 0x06425A6C
+DCCRC:                0x62A68B74 0xF552BAC5 0x80A82A64
+YCKSUM:               0x02FB3870 0x0171FEC1 0x017278B5
+UCKSUM:               0x00BB8AA9 0x005AE2FA 0x005B4265
+VCKSUM:               0x00B91E6A 0x0058BF01 0x005944FD
+DYCKSUM:              0x02EF0BDA 0x016B9024 0x016C038A
+DUCKSUM:              0x00B8731D 0x00596F9D 0x0059C6EC
+DVCKSUM:              0x00B5DBF2 0x00575F84 0x0057E8FE
+YMD5:                 3462B77CD580F0574BFA22F6A06680DD
+UMD5:                 49D36D52E0AC231864F31E538E7F1962
+VMD5:                 23DC85A29298BA5841F56AB3B6208196
+PixSumY:              99683364
+MaxY:                 1023
+MinY:                 0
+HistY[000 - 007]:     36234   486     523     520     603     584     605     554     
+HistY[008 - 015]:     531     631     541     564     566     525     624     533     
+HistY[016 - 023]:     617     622     646     648     657     721     735     783     
+HistY[024 - 031]:     821     948     814     766     823     841     889     838     
+HistY[032 - 039]:     851     849     912     910     948     914     938     1008    
+HistY[040 - 047]:     1040    1032    1080    1081    1035    1165    1141    1193    
+HistY[048 - 055]:     1265    1395    1382    1331    1468    1441    1639    1735    
+HistY[056 - 063]:     1756    1750    1729    1663    1660    1590    1751    1760    
+HistY[064 - 071]:     1674    1468    1498    1557    1450    1362    1374    1416    
+HistY[072 - 079]:     1385    1318    1325    1267    1284    1201    1227    1123    
+HistY[080 - 087]:     1180    1170    1139    1092    999     986     999     894     
+HistY[088 - 095]:     877     888     898     903     883     855     869     900     
+HistY[096 - 103]:     925     848     725     742     686     734     732     670     
+HistY[104 - 111]:     711     666     593     584     560     621     602     593     
+HistY[112 - 119]:     544     526     551     590     537     637     635     603     
+HistY[120 - 127]:     623     664     691     752     837     703     733     37516   
+
+###################################################
+# Byte:               258343
+# Size:               96649 Bytes
+# Ftype:              INTER
+# POC:                2
+###################################################
+FrmNum:               2
+DecFrmNum:            2
+Size:                 768 512
+DSize:                768 512
+DepthYUV:             10 10 10
+PicType:              0 0 0
+RandomAccess:         0
+CabacOutputBins:      739328
+ColorPrimaries:       0
+XferCharacteristics:  0
+MatrixCoefficients:   0
+DnrRefPic:            0
+DnrSumQuantCur:       0
+DnrSumQuantRef:       0
+DnrNumMbCur:          0
+DnrNumMbRef:          0
+DnrMbCntIntra:        0
+DnrMbCntInter:        0
+DnrIntraQmatSumLo:    0
+DnrIntraQmatSumHi:    0
+DnrInterQmatSumLo:    0
+DnrInterQmatSumHi:    0
+DnrAdjQp:             0
+LCRC:                 0x6BCD5352 0xD0D8FF8A 0xE9C50F1C
+CCRC:                 0x2E8804D1 0xD45F2E62 0xF7998750
+DLCRC:                0x6BCD5352 0xD0D8FF8A 0xE9C50F1C
+DCCRC:                0x2E8804D1 0xD45F2E62 0xF7998750
+YCKSUM:               0x05FC9896 0x0301DC4A 0x0302157A
+UCKSUM:               0x017E5832 0x00B07FFE 0x00B0A2EE
+VCKSUM:               0x017DAD3C 0x00B043EF 0x00AF907B
+DYCKSUM:              0x05FC9896 0x0301DC4A 0x0302157A
+DUCKSUM:              0x017E5832 0x00B07FFE 0x00B0A2EE
+DVCKSUM:              0x017DAD3C 0x00B043EF 0x00AF907B
+YMD5:                 4719575A5AE096DE952F8BB316DC9560
+UMD5:                 23C33CC7152719C1EA39304E3B33AE4B
+VMD5:                 C6A57AB19508CCCFBD65414203BDEEEC
+PixSumY:              208556916
+MaxY:                 1023
+MinY:                 0
+HistY[000 - 007]:     106942  1134    1123    1039    997     1004    987     1087    
+HistY[008 - 015]:     990     943     1072    1055    1030    987     1085    1001    
+HistY[016 - 023]:     1039    1039    996     1051    1036    1047    1053    1082    
+HistY[024 - 031]:     1136    1073    1176    1181    1138    1179    1138    1207    
+HistY[032 - 039]:     1232    1151    1204    1150    1246    1242    1276    1231    
+HistY[040 - 047]:     1271    1268    1315    1280    1291    1297    1323    1340    
+HistY[048 - 055]:     1457    1425    1514    1405    1512    1566    1577    1668    
+HistY[056 - 063]:     1685    1734    1723    1667    1583    1694    1704    1837    
+HistY[064 - 071]:     1768    1687    1673    1812    1651    1658    1700    1655    
+HistY[072 - 079]:     1541    1693    1593    1825    1747    1628    1588    1706    
+HistY[080 - 087]:     1586    1693    1623    1570    1579    1560    1801    1834    
+HistY[088 - 095]:     1919    1873    1670    1624    1519    1553    1552    1492    
+HistY[096 - 103]:     1540    1379    1363    1359    1362    1421    1352    1411    
+HistY[104 - 111]:     1590    1485    1349    1245    1242    1213    1212    1233    
+HistY[112 - 119]:     1237    1256    1245    1184    1144    1242    1230    1194    
+HistY[120 - 127]:     1284    1301    1216    1280    1518    1397    1441    113003  
+
